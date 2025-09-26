@@ -24,6 +24,19 @@ The project demonstrates how raw datasets can be cleaned, transformed, and visua
 
 ---
 
+👩‍💻 Author
+Augustine Glory Chinyere
+Entry-Level Data Analyst | My Journey from Raw WhatsApp Chats to Insightful Dashboards
+
+I am a budding data analyst passionate about turning raw data into meaningful insights through visualization and storytelling.
+As I build my skills in Power BI and data analytics, I enjoy creating dashboards that support decision-making and help me grow into a well-rounded data professional.
+
+Email
+GitHub
+LinkedIn
+
+---
+
 ## 📌 Project Overview
 Businesses generate large volumes of data from customer transactions, sales activities, and product feedback.  
 These dashboards demonstrate how **data-driven analysis** transforms raw sales and customer data into **actionable insights**, enabling better decisions in product strategy, pricing, customer service, and sales management.

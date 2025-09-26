@@ -56,8 +56,6 @@ These dashboards demonstrate how **data-driven analysis** transforms raw sales a
 - Sales representative performance ranking.  
 
 📷 *Dashboard Preview:*  
-![Product Analysis](images/Product_Analysis_Screenshot.png)
-
 ---![Product Analysis](https://github.com/user-attachments/assets/64fe8922-bd96-4bb7-8982-f269e184c527)
 
 
@@ -69,8 +67,6 @@ These dashboards demonstrate how **data-driven analysis** transforms raw sales a
 - Regional sales distribution across continents.  
 
 📷 *Dashboard Preview:*  
-![Glory Stores](images/Glory_Stores_Sales_Analysis_Screenshot.png)
-
 ---![Glory Stores Sales Anaylsis](https://github.com/user-attachments/assets/190ba4f2-6413-47ed-910a-683a410eaef1)
 
 

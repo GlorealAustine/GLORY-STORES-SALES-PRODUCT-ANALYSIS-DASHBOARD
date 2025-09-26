@@ -58,7 +58,6 @@ These dashboards demonstrate how **data-driven analysis** transforms raw sales a
 📷 *Dashboard Preview:*  
 ---![Product Analysis](https://github.com/user-attachments/assets/64fe8922-bd96-4bb7-8982-f269e184c527)
 
-
 ### 2. **Glory Stores Sales Analysis Dashboard**
 **Key Features**  
 - Total transactions, COGS, revenue, and profit overview.  
@@ -68,7 +67,6 @@ These dashboards demonstrate how **data-driven analysis** transforms raw sales a
 
 📷 *Dashboard Preview:*  
 ---![Glory Stores Sales Anaylsis](https://github.com/user-attachments/assets/190ba4f2-6413-47ed-910a-683a410eaef1)
-
 
 ## 🔑 Key Insights
 - Electronics and Fashion dominate product sales.  
@@ -107,5 +105,5 @@ These dashboards demonstrate how **data-driven analysis** transforms raw sales a
 The dashboards provide valuable insights into **product performance, customer behavior, and sales profitability**.  
 This project demonstrates the power of **business intelligence tools** in turning raw sales data into strategic insights.  
 
----
+
 

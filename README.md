@@ -91,11 +91,8 @@ These dashboards demonstrate how **data-driven analysis** transforms raw sales a
 ---
 
 ## 📂 Repository Contents
-- `datasets/` → Clean datasets in Excel format.  
-- `dashboards/` → Power BI files (to be uploaded).  
-- `images/` → Dashboard screenshots.  
-- `docs/` → Optional report or presentation.  
-- `README.md` → Full project documentation.  
+- `datasets/` → Clean datasets in Excel format.   
+- `images/` → Dashboard screenshots.   
 
 ---
 
@@ -103,14 +100,6 @@ These dashboards demonstrate how **data-driven analysis** transforms raw sales a
 - **Microsoft Excel** → Data cleaning and preparation.  
 - **Microsoft Power BI** → Dashboard creation & visualization.  
 - **GitHub** → Project documentation & portfolio showcase.  
-
----
-
-## 🚀 How to Use
-1. Clone this repository.  
-2. Open datasets from the `datasets/` folder.  
-3. Load the datasets into Power BI to explore the dashboards.  
-4. Review the `images/` folder for dashboard previews.  
 
 ---
 
